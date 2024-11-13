@@ -14,7 +14,7 @@
 - [x] Edição de textos
 - [x] Edição de layouts
 - [x] Edição de categorias
-- [x] Edição de configurações
+- [x] Edição de config
 
 ## ✨ Foi utilizado
 
